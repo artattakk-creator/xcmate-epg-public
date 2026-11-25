@@ -1,0 +1,12 @@
+{
+  "schema_version": 5,
+  "schema": "gsmedia-hub-github-v3",
+  "status": "PUBLIC_PENDING",
+  "repo": "artattakk-creator/xcmate-epg-public",
+  "delivery": "public-github-release-assets",
+  "default_profile": "all",
+  "profiles": [],
+  "variants": [],
+  "files": [],
+  "reason_code": "AWAITING_VERIFIED_APPROVED_EXPORT"
+}
