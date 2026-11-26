@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "version": "v1",
+  "format": "image/png",
+  "aspect_ratio": "16:9",
+  "origin": "Original procedural graphics created specifically for GS Media EPG fallback; no third-party photographs or logos.",
+  "assets": [
+    {
+      "id": "news",
+      "label": "Nachrichten",
+      "filename": "news.png",
+      "width": 960,
+      "height": 540,
+      "bytes": 519823,
+      "git_blob": "d7676cd958403aceed8e84e1463e3ed9d5f6f733"
+    },
+    {
+      "id": "sports",
+      "label": "Sport",
+      "filename": "sports.png",
+      "width": 960,
+      "height": 540,
+      "bytes": 519823,
+      "git_blob": "c328986f4060aa8f3cc5e2132a3c6756502941ce"
+    },
+    {
+      "id": "movies",
+      "label": "Spielfilme",
+      "filename": "movies.png",
+      "width": 960,
+      "height": 540,
+      "bytes": 519823,
+      "git_blob": "d94b40f5f6bee02fb4b9a981ea78af0254925c70"
+    },
+    {
+      "id": "series",
+      "label": "Serien und Unterhaltung",
+      "filename": "series.png",
+      "width": 960,
+      "height": 540,
+      "bytes": 519823,
+      "git_blob": "070c4c301759e17bb79b7527662b8d8f98e7a8fc"
+    },
+    {
+      "id": "documentary",
+      "label": "Dokumentationen",
+      "filename": "documentary.png",
+      "width": 960,
+      "height": 540,
+      "bytes": 519823,
+      "git_blob": "4e42a9a6bfc1fb83fc869796e8cd0558ae8e872b"
+    },
+    {
+      "id": "universal",
+      "label": "Universelles Standardbild",
+      "filename": "universal.png",
+      "width": 960,
+      "height": 540,
+      "bytes": 519823,
+      "git_blob": "82b10de35d4cf2baf02dfb6db103c50e1a02dd55"
+    }
+  ]
+}
