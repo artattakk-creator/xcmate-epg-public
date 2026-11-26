@@ -2,62 +2,68 @@
   "schema": 1,
   "version": "v1",
   "format": "image/png",
-  "aspect_ratio": "16:9",
-  "origin": "Original procedural graphics created specifically for GS Media EPG fallback; no third-party photographs or logos.",
+  "aspect_ratio": "1672:941",
+  "origin": "AI-generated cinematic category artwork created for GS Media EPG fallback, with stylized XMate emblem; not actual programme scenes.",
   "assets": [
     {
       "id": "news",
       "label": "Nachrichten",
       "filename": "news.png",
-      "width": 960,
-      "height": 540,
-      "bytes": 519823,
-      "git_blob": "d7676cd958403aceed8e84e1463e3ed9d5f6f733"
+      "width": 1672,
+      "height": 941,
+      "bytes": 2066075,
+      "git_blob": "cb552c9a8d2d54798cec3521982fd95212b49a72",
+      "sha256": "03851f6bd5b7e06d5953db64c43a25dadf4e878312665f737b9c411a255f275f"
     },
     {
       "id": "sports",
       "label": "Sport",
       "filename": "sports.png",
-      "width": 960,
-      "height": 540,
-      "bytes": 519823,
-      "git_blob": "c328986f4060aa8f3cc5e2132a3c6756502941ce"
+      "width": 1672,
+      "height": 941,
+      "bytes": 2031996,
+      "git_blob": "6dfa239d61b98e4e798da34ba3642ed1d420090f",
+      "sha256": "767251b573f22f0886bc2be262565ac3ef470b58545fba49c1ba49ab2bba9dd9"
     },
     {
       "id": "movies",
       "label": "Spielfilme",
       "filename": "movies.png",
-      "width": 960,
-      "height": 540,
-      "bytes": 519823,
-      "git_blob": "d94b40f5f6bee02fb4b9a981ea78af0254925c70"
+      "width": 1672,
+      "height": 941,
+      "bytes": 2010688,
+      "git_blob": "aa1d1f34749f5b01f2134a733de01307e2497555",
+      "sha256": "18477d0b60738126d801923f7107cd73a42c1682c5f0c320f2aab2784519795b"
     },
     {
       "id": "series",
       "label": "Serien und Unterhaltung",
       "filename": "series.png",
-      "width": 960,
-      "height": 540,
-      "bytes": 519823,
-      "git_blob": "070c4c301759e17bb79b7527662b8d8f98e7a8fc"
+      "width": 1672,
+      "height": 941,
+      "bytes": 2191258,
+      "git_blob": "fef98c6b6d137045dc5afbb74f694538661c8dd3",
+      "sha256": "d55ad77c7d2d518ee6937e795207595c4b642ebb5d1202e2a91600d05731a9f7"
     },
     {
       "id": "documentary",
       "label": "Dokumentationen",
       "filename": "documentary.png",
-      "width": 960,
-      "height": 540,
-      "bytes": 519823,
-      "git_blob": "4e42a9a6bfc1fb83fc869796e8cd0558ae8e872b"
+      "width": 1672,
+      "height": 941,
+      "bytes": 2241540,
+      "git_blob": "428cc6edf82ea65558501aed79c525e8a8f6b06f",
+      "sha256": "368b700a4878c6aa73b72c52ec89a6d9dcf234fb9d998dd466b65caec5f55eb4"
     },
     {
       "id": "universal",
       "label": "Universelles Standardbild",
       "filename": "universal.png",
-      "width": 960,
-      "height": 540,
-      "bytes": 519823,
-      "git_blob": "82b10de35d4cf2baf02dfb6db103c50e1a02dd55"
+      "width": 1672,
+      "height": 941,
+      "bytes": 1872835,
+      "git_blob": "8cd1690c5336c3e1e1012238f055b456e0725750",
+      "sha256": "523d6e3597ba7780a7af70035f43bb5066cb723866baf6d2131d4882603d6a22"
     }
   ]
 }
